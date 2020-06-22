@@ -52,4 +52,4 @@ elit.
 # Dependencies
 * Tkinter
 
-I assume you have random in-built.
+I assume you have random built-in
