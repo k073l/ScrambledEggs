@@ -48,8 +48,3 @@ adipiscing
 elit.
 --BREAK--
 ```
-
-# Dependencies
-* Tkinter
-
-I assume you have random built-in
